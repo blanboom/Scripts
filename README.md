@@ -13,3 +13,26 @@
 - omnifocus-add-to-inbox-v1.applescript
 
 参考：[OmniFocus 快速收集脚本 – Blanboom](https://blanboom.org/2014/omnifocus-quick-entry-applescript/)
+
+## Bash
+
+- add_shadow_to_image
+
+为图片增加阴影
+
+- timemachine_cleanup
+
+批量清理 Time Machine 中较旧的备份
+
+- upgrade_all
+
+批量进行 Homebrew、Mac App Store、pip、npm 等的更新
+
+## 使用方法
+
+```
+git clone git@github.com:blanboom/Scripts.git Scripts
+cd Scripts
+git submodule init
+git submodule update
+```
