@@ -1,0 +1,6 @@
+[submodule "Bash/timemachine_cleanup"]
+	path = Bash/timemachine_cleanup
+	url = git@gist.github.com:014654c2e1b858359fada810ca5215d4.git
+[submodule "Bash/add_shadow_to_image"]
+	path = Bash/add_shadow_to_image
+	url = git@gist.github.com:a26c48697d67f9c10423b0bfdd2f227c.git
