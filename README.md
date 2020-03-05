@@ -16,13 +16,21 @@
 
 ## Bash
 
-- add_shadow_to_image
-
-为图片增加阴影
-
 - timemachine_cleanup
 
 批量清理 Time Machine 中较旧的备份
+
+```
+# 清除 30 天前的**所有**旧备份：
+sudo ./tmcleanup.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb my_computer_name 30
+
+# 清除 30 天前的旧备份（保留一半）：
+sudo ./tmcleanup_50percent.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb my_computer_name 30
+```
+
+- add_shadow_to_image
+
+为图片增加阴影
 
 - upgrade_all
 
