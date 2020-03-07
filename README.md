@@ -20,6 +20,8 @@
 
 批量清理 Time Machine 中较旧的备份
 
+参考： [如何更好地清理 Time Machine 备份 – Blanboom](https://blanboom.org/2020/timemachine-cleanup/)
+
 ```
 # 清除 30 天前的**所有**旧备份：
 sudo ./tmcleanup.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb my_computer_name 30
