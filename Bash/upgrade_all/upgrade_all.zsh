@@ -16,20 +16,6 @@ brew update
 brew upgrade
 brew cask upgrade
 
-# 参考 https://github.com/UpdateCommand/update/blob/master/bin/update-brew-cask-outdated
-brew cask outdated |
-while read x; do
-  brew cask reinstall --force "$x"
-done
-
-# 参考 https://github.com/UpdateCommand/update/blob/master/bin/update-brew-cask-outdated-greedy
-brew cask outdated --greedy --verbose |
-grep -v '(latest)' |
-awk '{print $1}' |
-while read x; do
-  brew cask reinstall --force "$x"
-done
-
 echo "\033[34m============ Visual Studio Code ============\033[0m"
 code --list-extensions |
 while read x; do
