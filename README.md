@@ -2,21 +2,21 @@
 
 ## AppleScript
 
-- devonthink-to-markdown.applescript
+### devonthink-to-markdown.applescript
 
 参考： [使用 DEVONthink 和 AppleScript 完成稍后读，并快速分享阅读内容到博客](https://blanboom.org/2019/devonthink-to-markdown/)
 
-- omnifocus-add-to-inbox-v2.applescript
+### omnifocus-add-to-inbox-v2.applescript
 
 参考：[OmniFocus 快速收集脚本 v2 – Blanboom](https://blanboom.org/2014/omnifocus-quick-entry-applescript-v2/)
 
-- omnifocus-add-to-inbox-v1.applescript
+### omnifocus-add-to-inbox-v1.applescript
 
 参考：[OmniFocus 快速收集脚本 – Blanboom](https://blanboom.org/2014/omnifocus-quick-entry-applescript/)
 
 ## Bash
 
-- timemachine_cleanup
+###  timemachine_cleanup
 
 批量清理 Time Machine 中较旧的备份
 
@@ -30,11 +30,11 @@ sudo ./tmcleanup.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb my_computer
 sudo ./tmcleanup_50percent.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb my_computer_name 30
 ```
 
-- add_shadow_to_image
+### add_shadow_to_image
 
 为图片增加阴影
 
-- upgrade_all
+### upgrade_all
 
 批量进行 Homebrew、Mac App Store、pip、npm 等的更新
 
