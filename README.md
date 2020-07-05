@@ -14,6 +14,10 @@
 
 参考：[OmniFocus 快速收集脚本 – Blanboom](https://blanboom.org/2014/omnifocus-quick-entry-applescript/)
 
+### batch-delete-imessages.applescript
+
+在 macOS 上批量删除 iMessage 信息
+
 ## Bash
 
 ###  timemachine_cleanup
