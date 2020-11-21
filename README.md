@@ -42,6 +42,14 @@ sudo ./tmcleanup_50percent.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb m
 
 批量进行 Homebrew、Mac App Store、pip、npm 等的更新
 
+## Scriptable
+
+### StockWidget.js
+
+原脚本来自此处：[https://gist.github.com/saiteja09/52f15d4b4f30657af51a1336661884a8](https://gist.github.com/saiteja09/52f15d4b4f30657af51a1336661884a8)
+
+iOS 自带的股市 Widget，一个 Widget 中只能显示三个股票的信息。本脚本能够更密集地、显示更多（10 个以上）的股票信息。
+
 ## 使用方法
 
 ```

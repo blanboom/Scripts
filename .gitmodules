@@ -4,3 +4,6 @@
 [submodule "Bash/add_shadow_to_image"]
 	path = Bash/add_shadow_to_image
 	url = git@gist.github.com:a26c48697d67f9c10423b0bfdd2f227c.git
+[submodule "Scriptable/StockWidget.js"]
+	path = Scriptable/StockWidget.js
+	url = https://gist.github.com/blanboom/6ff96e27494913c1ca6315b900f555f0
