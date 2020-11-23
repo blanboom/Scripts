@@ -46,7 +46,7 @@ sudo ./tmcleanup_50percent.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb m
 
 ### StockWidget.js
 
-![StockWidget](Images/stockwidget.jpeg)
+![StockWidget](Images/stockwidget2.jpeg)
 
 原脚本来自此处：[https://gist.github.com/saiteja09/52f15d4b4f30657af51a1336661884a8](https://gist.github.com/saiteja09/52f15d4b4f30657af51a1336661884a8)
 
