@@ -42,6 +42,12 @@ sudo ./tmcleanup_50percent.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb m
 
 批量进行 Homebrew、Mac App Store、pip、npm 等的更新
 
+### logseq_yesterday_todo_transfer_to_today
+
+将 Logseq 昨天日志中的待办事项转移到今天
+
+参考：[将 Logseq 的昨日待办事项自动转移到今天 – Blanboom](https://blanboom.org/2023/logseq-yesterday-todo-transfer-to-today/)
+
 ## Scriptable
 
 ### StockWidget.js
