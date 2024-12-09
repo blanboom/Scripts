@@ -58,6 +58,26 @@ sudo ./tmcleanup_50percent.sh /Volumes/Time\ Machine\ Backups/Backups.backupdb m
 
 iOS 自带的股市 Widget，一个 Widget 中只能显示三个股票的信息。本脚本能够更密集地、显示更多（10 个以上）的股票信息。
 
+## Python
+
+### readwise_reader_to_cubox.py
+
+将 [Readwise Reader](https://readwise.io/read) 中的文章导出到 [Cubox](https://cubox.pro)。
+
+```
+usage: readwise_reader_to_cubox.py [-h] [--debug] api_token csv_file
+
+Import Readwise Reader bookmarks to Cubox
+
+positional arguments:
+  api_token   Cubox API token
+  csv_file    Path to the CSV file
+
+options:
+  -h, --help  show this help message and exit
+  --debug     Print HTTP requests without sending them
+```
+
 ## 使用方法
 
 ```
